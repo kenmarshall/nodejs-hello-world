@@ -1,7 +1,11 @@
 {
   "name": "node-example",
   "version": "0.0.1",
+  "main": "server.js",
   "dependencies": {
+  },
+  "scripts": {
+    "start": "node server.js"
   },
   "engines": {
     "node": "0.6.x"
